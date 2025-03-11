@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.479.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "scripts":{
+      "dev": "vite --host",
+      "build": "tsc && vite build",
+      "preview": "vite preview"
+      }
+
+  }
+
